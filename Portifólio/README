@@ -1,0 +1,5 @@
+Esse Código utiliza da biblioteca pandas e Selenium.
+
+Utilizo o selenium para navegar entre os conteúdos do Site, e armazena-los em um dicionário.
+Enquanto utilizo o pandas para criar um dataframe com os dados que foram adquiridos e colocados em um dicionário,
+e depois transformar esse dataframe em um arqui
